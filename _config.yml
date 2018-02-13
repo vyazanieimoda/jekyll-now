@@ -1,6 +1,5 @@
 ---
 title: Вязание и Мода
-description:
 timezone: UTC
 collections:
   posts:
@@ -9,13 +8,19 @@ collections:
   uploads:
     title: Uploads
     output: true
-author:
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+description: 
+author: 
 email: vyazanieimoda.ru@yandex.ru
-description:
-baseurl:
-url:
-twitter_username:
-github_username:
+baseurl: 
+url: 
+twitter_username: 
+github_username: 
 rss: rss
 show_excerpts: true
 sass:
@@ -40,13 +45,3 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-feed
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post

@@ -4,7 +4,8 @@ date: 2015-12-21 00:00:00 Z
 categories:
 - vyazanie
 - vyazanie-kryuchkom-dlya-nachinayuschih
-excerpt: Пышный столбик составляет воздушный и достаточно объемный узор. Выглядит такой узор очень пышно и интересно...
+excerpt: Пышный столбик составляет воздушный и достаточно объемный узор. Выглядит
+  такой узор очень пышно и интересно...
 preview: "/assets/images/2015-12-21-pishnyy-stolbik-shishechki-bugorki/pishnyy-stolbik-shishechki-bugorki-preview.jpg"
 ---
 
