@@ -1,10 +1,13 @@
 ---
+title: Бабушкин квадрат
+date: 2015-09-27 00:00:00 Z
+categories:
+- vyazanie
+- vyazanie-kryuchkom-dlya-nachinayuschih
 layout: post
-title: "Бабушкин квадрат"
-excerpt: "Бабушкин квадрат, на сегодняшний день, занимает огромное место в мире вязаной моды. Такой не хитрый мотив поднялся на высоты продиумов!"
-
-preview: /assets/images/2015-09-27-babushkin-kvadrat/babushkin-kvadrat-preview.jpg
-categories: vyazanie vyazanie-kryuchkom-dlya-nachinayuschih
+excerpt: Бабушкин квадрат, на сегодняшний день, занимает огромное место в мире вязаной
+  моды. Такой не хитрый мотив поднялся на высоты продиумов!
+preview: "/assets/images/2015-09-27-babushkin-kvadrat/babushkin-kvadrat-preview.jpg"
 ---
 
 Бабушкин квадрат, на сегодняшний день, занимает огромное место в мире вязаной моды. Такой не хитрый мотив поднялся на высоты подиумов!

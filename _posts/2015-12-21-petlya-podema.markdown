@@ -1,11 +1,13 @@
 ---
+title: Петля подъема
+date: 2015-12-21 00:00:00 Z
+categories:
+- vyazanie
+- vyazanie-kryuchkom-dlya-nachinayuschih
 layout: post
-title: "Петля подъема"
-excerpt: "Петля подъема (п. п.) существует для поддержания высоты ряда. Можно провязывать одну, а можно и больше, в зависимости от того, какой вяжется узор."
-
-
-preview: /assets/images/2015-12-21-petlya-podema/petlya-podema-preview.jpg
-categories: vyazanie vyazanie-kryuchkom-dlya-nachinayuschih
+excerpt: Петля подъема (п. п.) существует для поддержания высоты ряда. Можно провязывать
+  одну, а можно и больше, в зависимости от того, какой вяжется узор.
+preview: "/assets/images/2015-12-21-petlya-podema/petlya-podema-preview.jpg"
 ---
 
 {% include figure image_path="/assets/images/2015-12-21-petlya-podema/petlya-podema-1.jpg" alt="1 петля подъема" caption="1 петля подъема" %}
