@@ -8,13 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
-author:
+author: 
 email: vyazanieimoda.ru@yandex.ru
-description:
-baseurl:
-url:
-twitter_username:
-github_username:
+description: 
+baseurl: 
+url: 
+twitter_username: 
+github_username: 
 rss: rss
 show_excerpts: true
 sass:
