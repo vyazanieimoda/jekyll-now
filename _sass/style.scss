@@ -1,0 +1,17 @@
+.post figure {
+  margin: 2em 0;
+  text-align: center;
+
+  img {
+    display: inline-block;
+    margin-bottom: 1em;
+    border-radius: 4px;
+  }
+
+  figcaption {
+    margin-bottom: 0.5em;
+    color: #898c8f;
+    font-family: Georgia,Times,serif;
+    font-size: 0.75em;
+  }
+}
