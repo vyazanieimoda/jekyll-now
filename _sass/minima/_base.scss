@@ -240,3 +240,18 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+
+
+
+
+html {
+	height: 100%;
+	box-sizing: border-box;
+}
+
+*,
+*:after,
+*:before {
+	box-sizing: inherit;
+}

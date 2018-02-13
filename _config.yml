@@ -8,15 +8,15 @@ collections:
   uploads:
     title: Uploads
     output: true
-author: 
+author:
 email: vyazanieimoda.ru@yandex.ru
-description: 
-baseurl: 
-url: 
-twitter_username: 
-github_username: 
-rss: rss
-show_excerpts: false
+description:
+baseurl:
+url:
+twitter_username:
+github_username:
+# rss: false
+show_excerpts: true
 sass:
   style: compressed
 minima:
@@ -32,10 +32,9 @@ exclude:
 - Gemfile
 - Gemfile.lock
 permalink: "/:categories/:title.html"
-paginate: 4
+paginate: 10
 paginate_path: "/page:num/"
 plugins:
 - jekyll-sitemap
-- jekyll-feed
 - jekyll-paginate
 - jekyll-seo-tag
