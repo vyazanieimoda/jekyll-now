@@ -10,15 +10,15 @@ collections:
     output: true
 author: 
 email: vyazanieimoda.ru@yandex.ru
-description: ''
-baseurl: ''
-url: ''
+description: 
+baseurl: 
+url: 
 twitter_username: 
 github_username: 
 rss: rss
 show_excerpts: false
 sass:
-  style: :compressed
+  style: compressed
 minima:
   date_format: "%b %-d, %Y"
 markdown: kramdown
